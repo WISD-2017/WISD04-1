@@ -26,4 +26,7 @@ Route::get('/789', function () {
 Route::get('/79', function () {
     return view('welcome');
 });
+Route::get('/7955', function () {
+    return view('welcome');
+});
 
