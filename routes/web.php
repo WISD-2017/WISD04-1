@@ -20,3 +20,6 @@ Route::get('/123', function () {
 Route::get('/456', function () {
     return view('welcome');
 });
+Route::get('/789', function () {
+    return view('welcome');
+});
