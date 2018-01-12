@@ -23,3 +23,7 @@ Route::get('/456', function () {
 Route::get('/789', function () {
     return view('welcome');
 });
+Route::get('/79', function () {
+    return view('welcome');
+});
+
